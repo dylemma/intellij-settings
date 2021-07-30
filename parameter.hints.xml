@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Rust" />
+      <blacklist language="Scala">
+        <added pattern="play.api.libs.json.Json.obj(fields)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>

@@ -1,0 +1,165 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="D:/CodeDx/gitrepo/dev" value="2878703636812" />
+            <entry key="D:/CodeDx/gitrepo/dev/dev-scripts" value="1458329753139" />
+            <entry key="D:/CodeDx/research/ExecutionStackBuilder" value="1458665537385" />
+            <entry key="D:/CodeDx/research/fdqa-types" value="1477920934530" />
+            <entry key="D:/CodeDx/research/macros" value="1449176466174" />
+            <entry key="D:/CodeDx/research/scalaz flow replacement" value="1462472807635" />
+            <entry key="D:/CodeDx/research/slick3-multijoins" value="1478018779228" />
+            <entry key="D:/CodeDx/testing/antlr-csharp" value="1470243443399" />
+            <entry key="D:/CodePulse/gitrepo" value="4328845645892" />
+            <entry key="D:/CodePulse/gitrepo/project" value="1442947101259" />
+            <entry key="D:/xml-spac" value="1470247939151" />
+            <entry key="D:/xml-stream" value="1444657600859" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/CodeDx/gitrepo/dev/dev-scripts/HostNormalizationStressTest" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/gitrepo/dev" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/gitrepo/dev/dev-scripts/AnalysisStressTest" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/gitrepo/dev/project" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/gitrepo/dev/third-party/rklaehn/radixtree" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/research/rabbit-mq/client-playground/rabbitmq-client" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/testing/http4s/testing" value="PREVIEW" />
+            <entry key="C:/Projects/CodeDx/testing/selenium-test" value="PREVIEW" />
+            <entry key="C:/Projects/playground/fs2-testing" value="PREVIEW" />
+            <entry key="C:/Projects/playground/implicit search" value="PREVIEW" />
+            <entry key="C:/Projects/playground/monix-bugtest" value="PREVIEW" />
+            <entry key="C:/Projects/playground/resource-api" value="PREVIEW" />
+            <entry key="C:/Projects/xml-spac" value="PREVIEW" />
+            <entry key="D:/CodeDx/research/bron-kerbosch" value="PREVIEW" />
+            <entry key="D:/CodeDx/research/xml-optional-attributes" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherPath" value="C:\Projects\CodeDx\gitrepo\dev\sbt-launcher.jar" />
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="C:/Program Files/Java/jdk1.8.0_11" />
+        <option name="maximumHeapSize" value="2048" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="reactive.Observing" />
+    <EXCLUDED_PACKAGE NAME="sun" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.json" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="Scala.TypeMismatchHintsSettingsModel" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="important" pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" pattern="TODO:.*" />
+  </component>
+</application>

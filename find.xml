@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="**.js" />
+    <mask>*.conf</mask>
+    <mask>*.</mask>
+    <mask>src/main/*</mask>
+    <mask>*.html</mask>
+    <mask>*.scala</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>**fortify**scala</mask>
+    <mask>**Wrapper.scala</mask>
+    <mask>**xml</mask>
+    <mask>**Loader.scala</mask>
+    <mask>**js`</mask>
+    <mask>**json</mask>
+    <mask>**Access.scala</mask>
+    <mask>**SQ*scala</mask>
+    <mask>**java</mask>
+    <mask>**.xml</mask>
+    <mask>**.html</mask>
+    <mask>**.sbt</mask>
+    <mask>**s</mask>
+    <mask>**html</mask>
+    <mask>**css</mask>
+    <mask>**sbt</mask>
+    <mask>**</mask>
+    <mask>**web.xml</mask>
+    <mask>**js</mask>
+    <mask>**scala</mask>
+    <mask>**.scala</mask>
+    <mask>**.js</mask>
+  </component>
+</application>
