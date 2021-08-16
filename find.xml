@@ -25,7 +25,6 @@
     <mask>**.html</mask>
     <mask>**.sbt</mask>
     <mask>**s</mask>
-    <mask>**html</mask>
     <mask>**sbt</mask>
     <mask>**</mask>
     <mask>**web.xml</mask>
@@ -33,6 +32,7 @@
     <mask>**.js</mask>
     <mask>**css</mask>
     <mask>**js</mask>
+    <mask>**html</mask>
     <mask>**scala</mask>
   </component>
 </application>
