@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**.html" />
+    <option name="FILE_MASK" value="**.scala" />
     <mask>**fortify**scala</mask>
     <mask>**Wrapper.scala</mask>
     <mask>**xml</mask>
@@ -33,8 +33,8 @@
     <mask>**.js</mask>
     <mask>**.gitignore</mask>
     <mask>**.xml</mask>
-    <mask>**.scala</mask>
     <mask>**</mask>
     <mask>**.html</mask>
+    <mask>**.scala</mask>
   </component>
 </application>
