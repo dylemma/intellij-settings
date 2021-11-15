@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**scala" />
+    <option name="FILE_MASK" value="**" />
     <mask>**fortify**scala</mask>
     <mask>**Wrapper.scala</mask>
     <mask>**xml</mask>
@@ -25,7 +25,6 @@
     <mask>**.gitignore</mask>
     <mask>**.xml</mask>
     <mask>**.html</mask>
-    <mask>**</mask>
     <mask>**.scala</mask>
     <mask>**css</mask>
     <mask>*.css</mask>
@@ -36,5 +35,6 @@
     <mask>*.java</mask>
     <mask>**js</mask>
     <mask>**scala</mask>
+    <mask>**</mask>
   </component>
 </application>
