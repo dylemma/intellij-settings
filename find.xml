@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**.scala" />
+    <option name="FILE_MASK" value="**.js" />
     <mask>**fortify**scala</mask>
     <mask>**Wrapper.scala</mask>
     <mask>**xml</mask>
@@ -17,7 +17,6 @@
     <mask>**web.xml</mask>
     <mask>**sbt</mask>
     <mask>**.SCALA</mask>
-    <mask>**.js</mask>
     <mask>**.gitignore</mask>
     <mask>**.xml</mask>
     <mask>**.html</mask>
@@ -34,5 +33,6 @@
     <mask>**</mask>
     <mask>**.sbt</mask>
     <mask>**.scala</mask>
+    <mask>**.js</mask>
   </component>
 </application>
