@@ -30,11 +30,11 @@
     <mask>*.java</mask>
     <mask>**scala</mask>
     <mask>**html</mask>
-    <mask>**js</mask>
     <mask>**.sbt</mask>
     <mask>**</mask>
     <mask>**.scala</mask>
     <mask>**.js</mask>
+    <mask>**js</mask>
     <mask>**css</mask>
   </component>
 </application>
