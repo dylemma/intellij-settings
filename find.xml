@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**scala" />
+    <option name="FILE_MASK" value="**sbt" />
     <mask>**fortify**scala</mask>
     <mask>**Wrapper.scala</mask>
     <mask>**xml</mask>
@@ -17,7 +17,6 @@
     <mask>**java</mask>
     <mask>**s</mask>
     <mask>**web.xml</mask>
-    <mask>**sbt</mask>
     <mask>**.SCALA</mask>
     <mask>**.gitignore</mask>
     <mask>**.xml</mask>
@@ -36,5 +35,6 @@
     <mask>**html</mask>
     <mask>**js</mask>
     <mask>**scala</mask>
+    <mask>**sbt</mask>
   </component>
 </application>
