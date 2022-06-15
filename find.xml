@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**sbt" />
+    <option name="FILE_MASK" value="**scala" />
     <mask>**Loader.scala</mask>
     <mask>**js`</mask>
     <mask>**json</mask>
@@ -32,7 +32,7 @@
     <mask>**html</mask>
     <mask>**js</mask>
     <mask>**css</mask>
-    <mask>**scala</mask>
     <mask>**sbt</mask>
+    <mask>**scala</mask>
   </component>
 </application>
