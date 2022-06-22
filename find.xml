@@ -31,8 +31,8 @@
     <mask>*html</mask>
     <mask>**html</mask>
     <mask>**css</mask>
-    <mask>**js</mask>
     <mask>**sbt</mask>
+    <mask>**js</mask>
     <mask>**scala</mask>
   </component>
 </application>
