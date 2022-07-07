@@ -4,5 +4,21 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="spac replacements">
+      <action id="Replace" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="ReformatCode" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
