@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="**js" />
+    <option name="FILE_MASK" value="**scala" />
     <mask>**Loader.scala</mask>
     <mask>**js`</mask>
     <mask>**json</mask>
@@ -36,7 +36,7 @@
     <mask>**css</mask>
     <mask>**</mask>
     <mask>**sbt</mask>
-    <mask>**scala</mask>
     <mask>**js</mask>
+    <mask>**scala</mask>
   </component>
 </application>
