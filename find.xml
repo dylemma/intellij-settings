@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*scala" />
     <mask>**java</mask>
     <mask>**s</mask>
     <mask>**web.xml</mask>
@@ -22,7 +24,6 @@
     <mask>**.scala</mask>
     <mask>**.html</mask>
     <mask>**.js</mask>
-    <mask>*scala</mask>
     <mask>*js</mask>
     <mask>*html</mask>
     <mask>**html</mask>
@@ -36,5 +37,6 @@
     <mask>*.js</mask>
     <mask>*.scala</mask>
     <mask>*</mask>
+    <mask>*scala</mask>
   </component>
 </application>
