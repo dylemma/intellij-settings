@@ -7,8 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*scala" />
-    <mask>**java</mask>
+    <option name="FILE_MASK" value="*sbt" />
     <mask>**s</mask>
     <mask>**web.xml</mask>
     <mask>**.SCALA</mask>
@@ -38,5 +37,6 @@
     <mask>*.scala</mask>
     <mask>*</mask>
     <mask>*scala</mask>
+    <mask>*sbt</mask>
   </component>
 </application>
