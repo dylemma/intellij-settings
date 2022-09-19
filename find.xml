@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*scala" />
+    <option name="FILE_MASK" value="*sbt" />
     <mask>**.SCALA</mask>
     <mask>**.gitignore</mask>
     <mask>**.xml</mask>
@@ -31,10 +31,10 @@
     <mask>*.js</mask>
     <mask>*.scala</mask>
     <mask>*</mask>
-    <mask>*sbt</mask>
     <mask>*java</mask>
     <mask>*js</mask>
     <mask>*xml</mask>
     <mask>*scala</mask>
+    <mask>*sbt</mask>
   </component>
 </application>
